@@ -1,2 +1,2 @@
 # Votiz
-Voting App React TypeScript Python SQLAlchemy
+Voting App - React + TypeScript + PostCSS + Python + SQLAlchemy + Pydantic
